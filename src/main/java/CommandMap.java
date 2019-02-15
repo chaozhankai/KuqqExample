@@ -30,6 +30,7 @@ public class CommandMap{
                 flag = true;
             }
         }
+        // 随便修改
         return flag;
     }
 
