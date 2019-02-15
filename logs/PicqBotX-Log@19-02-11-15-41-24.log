@@ -1,0 +1,18 @@
+[19-02-11 15:41:24] [PicqBotX] [INFO] 
+[19-02-11 15:41:25] [PicqBotX] [INFO]     ____  _            ____        __ _  __
+[19-02-11 15:41:25] [PicqBotX] [INFO]    / __ \(_)________ _/ __ )____  / /| |/ /
+[19-02-11 15:41:25] [PicqBotX] [INFO]   / /_/ / / ___/ __ `/ __  / __ \/ __/   /
+[19-02-11 15:41:25] [PicqBotX] [INFO]  / ____/ / /__/ /_/ / /_/ / /_/ / /_/   |
+[19-02-11 15:41:25] [PicqBotX] [INFO] /_/   /_/\___/\__, /_____/\____/\__/_/|_|
+[19-02-11 15:41:25] [PicqBotX] [INFO]                 /_/         v2.4.5.566
+[19-02-11 15:41:25] [PicqBotX] [INFO] 日志管理器     初始化完成 [******] ...(412.54 ms)
+[19-02-11 15:41:25] [PicqBotX] [INFO] 缓存管理器     初始化完成 [******] ...(1.48 ms)
+[19-02-11 15:41:25] [PicqBotX] [INFO] DEBUG设置      初始化完成 [******] ...(0.01 ms)
+[19-02-11 15:41:25] [PicqBotX] [INFO] 事件管理器     初始化完成 [******] ...(220.35 ms)
+[19-02-11 15:41:25] [PicqBotX] [INFO] 账号管理器     初始化完成 [******] ...(0.63 ms)
+[19-02-11 15:41:25] [PicqBotX] [INFO] HTTP监听服务器 初始化完成 [******] ...(1.44 ms)
+[19-02-11 15:41:27] [PicqBotX] [INFO] 指令管理器     初始化完成 [******] ...(2448.76 ms)
+[19-02-11 15:41:27] [PicqBotX] [ERROR(cc.moecraft.icq.PicqBotX.verifyHttpPluginVersion:319)] 账号 Main: HTTP插件版本不正确, 已停止启动
+[19-02-11 15:41:27] [PicqBotX] [ERROR(cc.moecraft.icq.PicqBotX.verifyHttpPluginVersion:320)] - 当前版本: 4.7.0
+[19-02-11 15:41:27] [PicqBotX] [ERROR(cc.moecraft.icq.PicqBotX.verifyHttpPluginVersion:321)] - 兼容的版本: .*4.4.*
+[19-02-11 15:41:27] [PicqBotX] [ERROR(cc.moecraft.icq.PicqBotX.startBot:263)] 验证失败, 请检查上面的错误信息再重试启动服务器.
