@@ -8,7 +8,7 @@ import java.util.Map;
 /**
  * 构造一个map，用来存放指令和执行的命令
  */
-//  新加点儿东西
+
 public class CommandMap{
     Map<String,String> commandMap = new LinkedHashMap<>();// 这个map顺序是对的
     // 执行方法
@@ -30,7 +30,6 @@ public class CommandMap{
                 flag = true;
             }
         }
-        System.out.println("map长度为："+commandMap.size());
         return flag;
     }
 
